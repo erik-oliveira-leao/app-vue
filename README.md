@@ -24,8 +24,17 @@ O primeiro passo para iniciar a sua aplicação Vue.js é configurar o ambiente 
    npm create vue@latest
 
    cd nome-do-seu-projeto
-   npm install
 
+   Use TypeScript? yes
+   ◻ Router (SPA development)
+
+   Select experimental features to include in your project: (↑/↓ to navigate, space to select, a to toggle all, enter to confirm)
+│  ◻ Vite 8 (beta)
+   npm install
+Skip all example code and start with a blank Vue project?
+│  ○ Yes / ● No
+
+cd nome-do-seu-projeto
    npm run dev
    ```
    Durante o processo, você pode escolher as configurações padrão ou personalizá-las de acordo com suas necessidades.
