@@ -28,7 +28,8 @@ O primeiro passo para iniciar a sua aplicação Vue.js é configurar o ambiente 
    Use TypeScript? yes
    ◻ Router (SPA development)
 
-   Select experimental features to include in your project: (↑/↓ to navigate, space to select, a to toggle all, enter to confirm)
+   Select experimental features to include in your project:
+   (↑/↓ to navigate, space to select, a to toggle all, enter to confirm)
 │  ◻ Vite 8 (beta)
    npm install
 Skip all example code and start with a blank Vue project?
