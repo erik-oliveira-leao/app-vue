@@ -35,9 +35,9 @@ O primeiro passo para iniciar a sua aplicação Vue.js é configurar o ambiente 
 Skip all example code and start with a blank Vue project?
 │  ○ Yes / ● No
 
- npm install
+   npm install
 
-cd nome-do-seu-projeto
+   cd nome-do-seu-projeto
    npm run dev
    ```
    Durante o processo, você pode escolher as configurações padrão ou
