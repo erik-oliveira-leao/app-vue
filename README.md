@@ -38,7 +38,8 @@ Skip all example code and start with a blank Vue project?
 cd nome-do-seu-projeto
    npm run dev
    ```
-   Durante o processo, você pode escolher as configurações padrão ou personalizá-las de acordo com suas necessidades.
+   Durante o processo, você pode escolher as configurações padrão ou
+personalizá-las de acordo com suas necessidades.
 
 ## Passo 2: Estrutura do Projeto
 
